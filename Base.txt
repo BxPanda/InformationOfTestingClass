@@ -1,0 +1,6 @@
+6 Math 100 
+3 Geography 80 
+7 Sport 120 
+1 Programing 100
+4 Dyskretna 100
+2 English 91
